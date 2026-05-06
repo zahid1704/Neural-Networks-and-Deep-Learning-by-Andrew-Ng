@@ -1,2 +1,2 @@
-# Neural-Networks-and-Deep-Learning-by-Andrew-Ng
-This course is part of Coursera DeepLearning.ai
+# Neural-Networks-and-Deep-Learning
+This course is part of Coursera DeepLearning.ai instructed by Andrew Ng
